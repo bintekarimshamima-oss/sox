@@ -1,0 +1,17 @@
+{
+  "sox_excess_ret_h1": {
+    "n_origins": 127,
+    "date_min": "2016-01-31",
+    "date_max": "2026-07-31"
+  },
+  "sox_excess_ret_h3": {
+    "n_origins": 125,
+    "date_min": "2016-01-31",
+    "date_max": "2026-05-31"
+  },
+  "sox_excess_ret_h6": {
+    "n_origins": 122,
+    "date_min": "2016-01-31",
+    "date_max": "2026-02-28"
+  }
+}

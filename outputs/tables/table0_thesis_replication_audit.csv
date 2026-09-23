@@ -1,0 +1,9 @@
+audit_item,observed_evidence
+Structure,One worksheet; two columns: Date and SOX_Price
+Rows and period,2580 trading days; 2016-01-04 to 2026-04-08
+Integrity,"Missing=0, duplicate dates=0, non-positive=0, sorted=True"
+Price distribution,Mean 2813.91; SD 1796.45; range 559.18-8510.92
+Daily log returns,Mean 0.099%; SD 2.106%; excess kurtosis 5.72
+Fixed split (80:20),Train: 2064 through 2024-03-15; test: 516 from 2024-03-18
+Range shift,Test maximum is 64.8% above training maximum
+Naive benchmark (test),RMSE=134.01; MAE=96.94

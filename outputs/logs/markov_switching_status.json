@@ -1,0 +1,11 @@
+{
+  "n": 125,
+  "n_rejected_fits": 1,
+  "rmse_benchmark": 13.735361743237736,
+  "rmse_markov_switching": 14.350814324472935,
+  "oos_r2_vs_benchmark": -0.09162352748303904,
+  "clark_west_p_one_sided": 0.4110147440588554,
+  "bootstrap_ci_low": -12.685368761493676,
+  "bootstrap_ci_high": 52.47232511463972,
+  "note": "SECONDARY ROBUSTNESS MODULE. Compact 2-feature (VIX, industrial-production growth) 2-regime Markov-switching regression, filtered probabilities only, estimated fresh at each outer origin. Tests whether data-driven regime breaks recover forecast value the calendar-defined regime split (Table 3) only illustrates informally."
+}

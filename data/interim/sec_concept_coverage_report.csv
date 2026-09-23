@@ -1,0 +1,9 @@
+concept,distinct_firms_with_data,firm_quarters_with_data,total_firm_quarters_possible,coverage_ratio,below_70pct_threshold_FLAG,note
+RevenueFromContractWithCustomerExcludingAssessedTax,89,2240,41410,0.0541,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+SalesRevenueNet,107,2469,41410,0.0596,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+InventoryNet,180,5557,41410,0.1342,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+PaymentsToAcquirePropertyPlantAndEquipment,181,5958,41410,0.1439,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+ResearchAndDevelopmentExpense,178,6023,41410,0.1454,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+CostOfRevenue,103,2862,41410,0.0691,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+OperatingIncomeLoss,197,6690,41410,0.1616,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"
+AccountsReceivableNetCurrent,184,5395,41410,0.1303,True,"LOW COVERAGE (<70%) -- flagged per protocol; exclusion decision deferred to main analysis, not dropped here"

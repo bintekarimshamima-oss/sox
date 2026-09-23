@@ -1,0 +1,51 @@
+protocol_version: v1.0
+frozen_at_utc: 2026-09-13
+freeze_date: 2026-09-13
+
+study_window:
+  start: 2006-01
+  end_rule: latest_complete_month_at_freeze_date
+
+primary:
+  outcome: sox_excess_ret_h3
+  model_comparison:
+    challenger: M2_elastic_net_fundamentals
+    benchmark: best_of_B0_B1_market_only
+  loss: squared_error
+  test: clark_west_one_sided
+  alpha: 0.05
+  decision_rule: >
+    Challenger must show positive OOS R-squared vs benchmark at h=3,
+    one-sided Clark-West p < 0.05, and a block-bootstrap 95% CI for the
+    loss improvement that excludes zero. Failure is a valid, reportable
+    null result — do not swap primary outcome/model/test after seeing it.
+
+secondary_outcomes:
+  - sox_excess_ret_h1
+  - sox_excess_ret_h6
+  - sox_rv_next
+  - sox_downside_h3
+
+horizons_months: [1, 3, 6]
+
+validation:
+  scheme: nested_expanding_window
+  outer_initial_train_end: 2015-12
+  outer_origin_frequency: monthly
+  inner_folds: [3, 5]
+  embargo_months_rule: ">= h"
+  seeds_min: 20
+
+release_lags:
+  comtrade_primary_lag_months: 2
+  comtrade_sensitivity_lags_months: [1, 3]
+  gpr_epu_lag_months: 1
+  sec_xbrl: filing_accepted_date
+  fred_bls_fed_census: recorded_release_date_or_conservative_1m_lag
+
+no_future_information_rules:
+  - "Imputation, scaling, feature selection, PCA/factor loadings, and calibration are re-fit inside each outer training window only."
+  - "No outer-test observation may influence hyperparameters, feature choice, or trading rules."
+  - "Smoothed regime probabilities are prohibited pseudo-real-time; filtered probabilities only."
+
+deviation_log_path: outputs/logs/deviation_log.md

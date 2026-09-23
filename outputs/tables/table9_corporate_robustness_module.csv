@@ -1,0 +1,2 @@
+n,rmse_benchmark,rmse_with_corporate_block,oos_r2_vs_benchmark,clark_west_p_one_sided,bootstrap_ci_low,bootstrap_ci_high,note
+125,13.735361743237736,13.852894909404261,-0.01718717462810071,0.6748195366733694,-5.126220108268013,16.787185321558418,"SECONDARY ROBUSTNESS MODULE ONLY. All 8 SEC XBRL concepts fall below the 70% firm-quarter coverage threshold (see sec_concept_coverage_report.csv); per protocol this corporate block is reported separately from the primary M2 model and primary hypothesis test, not merged into them."

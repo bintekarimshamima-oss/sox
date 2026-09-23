@@ -1,0 +1,24 @@
+{
+  "n_features": 21,
+  "mean_coverage": 0.9704301075268819,
+  "min_coverage_feature": "sox_mom_12m",
+  "min_coverage_value": 0.9112903225806451,
+  "features_with_break_flag": [
+    "sox_mom_3m",
+    "sox_mom_12m",
+    "sox_realized_vol_1m",
+    "vix_level",
+    "term_spread",
+    "ip_growth_yoy",
+    "ip_growth_1m",
+    "cap_util_level",
+    "ppi_growth_yoy",
+    "import_price_growth_yoy",
+    "export_price_growth_yoy",
+    "price_pressure_dispersion",
+    "electronics_inventory_growth_yoy",
+    "electronics_orders_growth_yoy",
+    "gpr_level",
+    "sox_excess_ret_h3"
+  ]
+}

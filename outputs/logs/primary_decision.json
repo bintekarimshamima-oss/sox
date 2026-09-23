@@ -1,0 +1,9 @@
+{
+  "primary_target": "sox_excess_ret_h3",
+  "positive_oos_r2": false,
+  "oos_r2": -0.06059342155738401,
+  "clark_west_p_one_sided": 0.9832725810662583,
+  "significant_at_05": false,
+  "bootstrap_ci_excludes_zero": false,
+  "primary_hypothesis_supported": false
+}

@@ -1,0 +1,58 @@
+fred:
+  base_csv: "https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}"
+  series:
+    NASDAQSOX: {role: sox_index, freq: daily, start: "2004-09-01"}
+    IPG3344S: {role: industrial_production, freq: monthly, start: "1972-01-01"}
+    CAPUTLG3344S: {role: capacity_utilization, freq: monthly, start: "1972-01-01"}
+    PCU33443344: {role: producer_price, freq: monthly, start: "1984-12-01"}
+    IZ3344: {role: import_price, freq: monthly, start: "2005-01-01"}
+    IY3344: {role: export_price, freq: monthly, start: "2005-01-01"}
+    VIXCLS: {role: vix, freq: daily, start: "1990-01-01"}
+    DGS3MO: {role: rf_3mo, freq: daily, start: "1981-01-01"}
+    DGS10: {role: rate_10y, freq: daily, start: "1962-01-01"}
+    DTWEXBGS: {role: broad_dollar, freq: daily, start: "2006-01-01"}
+    NASDAQCOM: {role: nasdaq_composite, freq: daily, start: "1971-02-01"}
+    A34SIS: {role: electronics_inventory_proxy, freq: monthly, start: "1992-01-01"}
+    A34HNO: {role: electronics_new_orders_proxy, freq: monthly, start: "1992-01-01"}
+
+french:
+  base_url: "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip"
+  role: market_and_risk_factors
+
+sec_edgar:
+  base_companyfacts: "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json"
+  base_submissions: "https://data.sec.gov/submissions/CIK{cik10}.json"
+  sic_target: "3674"
+  user_agent: "PhD Research Project yusha@iscb.org"
+  concepts:
+    - RevenueFromContractWithCustomerExcludingAssessedTax
+    - SalesRevenueNet
+    - InventoryNet
+    - PaymentsToAcquirePropertyPlantAndEquipment
+    - ResearchAndDevelopmentExpense
+    - CostOfRevenue
+    - OperatingIncomeLoss
+    - AccountsReceivableNetCurrent
+
+un_comtrade:
+  base_preview: "https://comtradeapi.un.org/public/v1/preview/C/M/HS"
+  hs_families:
+    integrated_circuits: "8542"
+    semiconductor_equipment: "8486"
+  reporters:
+    USA: 842
+    KOR: 410
+    TWN: 490
+    JPN: 392
+    DEU: 276
+    NLD: 528
+    CHN: 156
+    SGP: 702
+  partner_world: 0
+  flows: [M, X]
+  note: "Public preview endpoint, no subscription key, one reporter-period-flow per call, rate-limited."
+
+geopolitical_risk:
+  base_url: "https://www.matteoiacoviello.com/gpr_files/data_gpr_export.xls"
+  role: gpr_index
+  note: "Caldara-Iacoviello GPR monthly index, public direct download."

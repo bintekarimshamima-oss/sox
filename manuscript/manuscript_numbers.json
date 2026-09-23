@@ -1,0 +1,88 @@
+{
+  "replication_n_rows": 2580,
+  "replication_date_range": "2016-01-04 to 2026-04-08",
+  "replication_naive_rmse": 134.01,
+  "replication_naive_mae": 96.94,
+  "primary_oos_r2": -0.0606,
+  "primary_clark_west_p": 0.9833,
+  "primary_bootstrap_ci": [
+    -0.186,
+    31.276
+  ],
+  "primary_supported": false,
+  "h1_oos_r2": -0.0077,
+  "h6_oos_r2": -0.118,
+  "n_outer_origins_h3": 125,
+  "ai_era_oos_r2": 0.0063,
+  "ai_era_p": 0.2008,
+  "corporate_module": {
+    "n": 125,
+    "oos_r2_vs_benchmark": -0.0172,
+    "clark_west_p_one_sided": 0.6748,
+    "bootstrap_ci": [
+      -5.126,
+      16.787
+    ],
+    "n_firms_universe": 505,
+    "n_firms_with_facts": 251,
+    "sec_coverage_note": "All 8 XBRL concepts below 70% firm-quarter coverage threshold; run as secondary robustness module per protocol, not merged into primary M2."
+  },
+  "trade_module": {
+    "n": 125,
+    "oos_r2_vs_benchmark": -0.0247,
+    "clark_west_p_one_sided": 0.2575,
+    "bootstrap_ci": [
+      -10.194,
+      22.773
+    ],
+    "n_comtrade_calls": 7936,
+    "n_comtrade_rows": 181231,
+    "hs_codes": "8542 (integrated circuits, demand proxy); 8486 (semiconductor manufacturing equipment, capacity proxy)",
+    "release_lag_months": 2
+  },
+  "markov_switching": {
+    "n": 125,
+    "n_rejected_fits": 1,
+    "oos_r2_vs_benchmark": -0.0916,
+    "clark_west_p_one_sided": 0.411,
+    "bootstrap_ci": [
+      -12.685,
+      52.472
+    ]
+  },
+  "volatility_downside": {
+    "realized_volatility": {
+      "n": 127,
+      "oos_r2_vs_benchmark": 0.3115,
+      "qlike_benchmark": 0.6235,
+      "qlike_har_rv": 0.3244
+    },
+    "downside_risk": {
+      "n": 125,
+      "base_rate_mean": 0.1374,
+      "roc_auc_logit": 0.5829,
+      "pr_auc_logit": 0.3614,
+      "brier_logit": 0.1896,
+      "brier_base_rate": 0.1589
+    }
+  },
+  "xgboost_robustness": {
+    "h3_oos_r2": -0.0261,
+    "h3_clark_west_p": 0.518,
+    "h3_bootstrap_ci": [
+      -9.145,
+      17.551
+    ],
+    "h1_oos_r2": -0.0177,
+    "h6_oos_r2": -0.0919,
+    "pre_covid_oos_r2": 0.0167,
+    "pre_covid_p": 0.1596,
+    "covid_shortage_oos_r2": 0.024,
+    "covid_shortage_p": 0.246
+  },
+  "source_hashes": {
+    "table0": "76ae6ea08f60",
+    "table5": "e90a06c2f4dd",
+    "table8": "7d4e34f5f458"
+  }
+}

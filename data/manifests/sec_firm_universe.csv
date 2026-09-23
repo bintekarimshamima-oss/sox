@@ -1,0 +1,506 @@
+cik,ticker,name,sic,source_note
+0001025881,,3DLABS INC LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001651235,,"Acacia Communications, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000907687,,ACTEL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001342068,,"Actions Semiconductor Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001395848,,ADESTO TECHNOLOGIES Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001104042,,ADVANCED ANALOGIC TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001005356,,ADVANCED ID CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000002488,AMD,ADVANCED MICRO DEVICES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000869986,,ADVANCED PHOTONIX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001114973,,ADVANCED POWER TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001158838,ADTTF,ADVANTEST CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001828805,ALMU,"Aeluma, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001487990,,AEROFLEX HOLDING CORP.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000002601,,AEROFLEX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001129446,,AGERE SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000866291,ALGM,"ALLEGRO MICROSYSTEMS, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001122342,,ALLIANCE FIBER OPTIC PRODUCTS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000913293,,ALLIANCE SEMICONDUCTOR CORP /DE/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001387467,AOSL,ALPHA & OMEGA SEMICONDUCTOR Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000768251,,ALTERA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001280263,AMBA,AMBARELLA INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001500412,AMBQ,"Ambiq Micro, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000920426,,AMERICAN ELECTRONIC COMPONENTS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001217952,,AMI SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001161963,,AMIS HOLDINGS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001047127,AMKR,"AMKOR TECHNOLOGY, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000940332,,ANADIGICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000006281,ADI,ANALOG DEVICES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001081078,,API Technologies Corp.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001040660,,APPLIED FILMS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000006951,AMAT,APPLIED MATERIALS INC /DE,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000711065,,APPLIED MICRO CIRCUITS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001158114,AAOI,"APPLIED OPTOELECTRONICS, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001366144,,"Applied Precision, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001176193,,"APPLIED SOLAR, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001316016,,AQUANTIA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001422971,,Arise Technologies Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057997,,ARM HOLDINGS PLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001973239,ARM,ARM HOLDINGS PLC /UK,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001820721,ARRY,"Array Technologies, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001667011,AIP,"Arteris, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001048982,,ARTISAN COMPONENTS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102411,,ASAT CAYMAN LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102390,,ASAT FINANCE LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102384,,ASAT HOLDINGS LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102399,,ASAT INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102394,,ASAT LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001350102,ASTI,"Ascent Solar Technologies, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001122411,ASX,"ASE Technology Holding Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001014838,,ASE TEST LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001049861,,"ASPIRE INTERNATIONAL, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001736297,ALAB,"Astera Labs, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000885672,,ASTROPOWER INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001140486,,ATHEROS COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000872448,,ATMEL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001420520,ATOM,Atomera Inc,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001172494,,AU OPTRONICS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001201663,,AUDIENCE INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001138830,,AUTHENTEC INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001376403,,Avago Technologies Finance Pte. Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001441634,,Avago Technologies LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001056794,,AVANEX CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001051627,AXTI,AXT INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001289814,,BCD Semiconductor Manufacturing Ltd,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001003196,,BE SEMICONDUCTOR INDUSTRIES NV,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001274991,,BECEEM COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001086365,,BELL RONALD K,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000872918,,BENCHMARQ MICROELECTRONICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000889155,,BKC SEMICONDUCTORS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001871638,BZAIW,"Blaize Holdings, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0002030578,,"Blaize, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001690716,,BOMIT Master Fund LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001649345,,Broadcom Cayman L.P.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001054374,,BROADCOM CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001730168,AVGO,Broadcom Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001649338,,Broadcom Pte. Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000764271,,BROOKTREE CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057093,,BRUECK ROBERT L,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001102056,,C CUBE MICROSYSTEMS INC/DE,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001297968,,"Cambridge Display Technology, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001375877,CSIQ,Canadian Solar Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001073489,,CARDXX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001324344,,CASCADE TECHNOLOGIES CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000899636,,CATALYST SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001175609,,"CAVIUM, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001174620,,CELERITY GROUP INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001100732,,CENTURY CONTROLS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0002021728,CBRS,Cerebras Systems Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001494562,,China Inc,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001396247,,"China Sunergy Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001133478,,CHIPMOS TECHNOLOGIES BERMUDA LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001123134,IMOS,CHIPMOS TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001097583,,CHIPPAC INTERNATIONAL CO LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097579,,CHIPPAC LIQUIDITY MANAGEMENT LIMITED LIABILITY CO,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097578,,CHIPPAC LUXEMBOURG SARL,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000767965,,CHIPS & TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001125352,,CHORUM TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001086369,,CHRISTENSEN BRENT W,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001191334,,CHUN CAN CAPITAL GROUP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001039497,,CIDRA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000772406,CRUS,"CIRRUS LOGIC, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001102934,,"CMC Materials, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001127946,,CONEXANT SPINCO INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001069353,,CONEXANT SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001164975,,CORTINA SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057095,,COURTNEY EUGENE W,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001807794,CRDO,Credo Technology Group Holding Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001368358,,CSR PLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001047427,,CVC INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001138169,,CYBERLUX CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001126994,,CYOPTICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000791915,,CYPRESS SEMICONDUCTOR CORP /DE/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000867105,,CYRIX CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000749420,,DALLAS SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001477641,DQ,DAQO NEW ENERGY CORP.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001262200,,DAYSTAR TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001116581,,DIALOG SEMICONDUCTOR PLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000029002,DIOD,DIODES INC /DEL/,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000821256,,DISPLAYTECH INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001118344,,DND TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000915778,,DSP GROUP INC /DE/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000784770,,DT Sale Corp.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000886328,,E DIGITAL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001044007,,E TEK DYNAMICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001109898,,eASIC Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001432242,,ECHO TECHNOLOGY (DELAWARE) INC.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000949872,,ELANTEC SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001690717,,"ELCO Management Co., LLC",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001046995,,EMAGIN CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001101322,,EMBEDDED SUPPORT TOOLS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000808326,,EMCORE CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000032878,,ENERGY CONVERSION DEVICES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001463101,ENPH,"Enphase Energy, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000866830,,ENTORIAN TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001227930,,ENTROPIC COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001422153,,ePAK International LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001053469,,EPITAXX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000907410,,ESS TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001596089,,ETERIS B.V.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000947397,,EVERGREEN SOLAR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001438423,MRAM,EVERSPIN TECHNOLOGIES INC.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000753568,,EXAR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001038272,,FAIRCHILD SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001036960,,FAIRCHILD SEMICONDUCTOR INTERNATIONAL INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001261733,,FARINARO ANTHONY,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001094739,,FINISAR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001274494,FSLR,"FIRST SOLAR, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001039399,FORM,FORMFACTOR INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001057097,,FRANTA WILLIAM R,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001272547,,FREESCALE SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001392522,,"Freescale Semiconductor, Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001828161,FTCI,"FTC Solar, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001041840,,GALILEO TECHNOLOGY LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001439969,,GCL Silicon Technology Holdings Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001851961,GCTS-WT,"GCT Semiconductor Holding, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001421365,,GCT SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001052188,,GELLATLY DAVID L,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001053782,,GENESIS MICROCHIP INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001161396,,GENESIS MICROCHIP INC /DE,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001432150,,"GigPeak, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001069562,,GLOBAL INNOVATION CORP.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001709048,GFS,GLOBALFOUNDRIES Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001095270,,GLOBALFOUNDRIES SINGAPORE PTE. LTD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001081197,,GLOBESPANVIRATA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001126741,GSIT,GSI TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001224128,,GSLI CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001394954,,GT Advanced Technologies Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001832487,GUER,"Guerrilla RF, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001371541,,"Hanwha Q CELLS Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000351298,,HEI INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001065246,,HI/FN INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001342338,HIMX,"Himax Technologies, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001130866,,HITTITE MICROWAVE CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001080909,,HYTEC FLOW SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000715593,,HYTEK MICROSYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000855182,,IBIS TECHNOLOGY CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001652535,ICHR,"ICHOR HOLDINGS, LTD.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001281872,,ICP Solar Technologies Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001096491,,ICS TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001096492,,ICST INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001507957,IPWR,Ideal Power Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000812927,,IMP INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001841925,INDI,"indie Semiconductor, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001816696,,"Industrial Tech Acquisitions, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001107457,IFNNF,INFINEON TECHNOLOGIES AG,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001280707,,INFINITI SOLUTIONS LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000932980,,INFORMATION STORAGE DEVICES INC /CA/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001450040,,InnoLight Technology Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001160958,,INPHI Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001099425,,INSILICON CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000909211,,INSYNC SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001895597,ICG,Intchains Group Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000874689,,INTEGRATED CIRCUIT SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000929846,,INTEGRATED SENSOR SOLUTIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000854701,,INTEGRATED SILICON SOLUTION INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000050863,INTC,INTEL CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000768545,,INTEL OVERSEAS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001120105,,INTELLON CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001041256,,INTERCARD INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001311241,,INTERMOLECULAR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001053182,,INTERNATIONAL MICROCIRCUITS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000316793,,INTERNATIONAL RECTIFIER CORP /DE/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000050842,,INTERPOINT CORP /NEW/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001096324,,INTERSIL COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001096325,,INTERSIL CORP/DE,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001108627,,INTRINSIX CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001294924,,InvenSense Inc,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001111928,IPGP,IPG PHOTONICS CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001053997,,ISE LABS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001634447,,"ISUN, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001221910,,IWATT INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000945699,,"IXYS, LLC",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001385598,,"JA Solar Holdings Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001200720,,JAZZ SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001481513,JKS,"JinkoSolar Holding Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001094087,,JNI CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057910,,JOHN KENNETH STAHL,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001494162,,KinerjaPay Corp.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001028852,,KINETICS GROUP INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000771266,KOPN,KOPIN CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000056978,KLIC,KULICKE & SOFFA INDUSTRIES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000057083,KYOAY,KYOCERA CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001002829,,LANSTAR SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000855658,LSCC,LATTICE SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001385424,,"LDK Solar Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001130626,,LEADIS TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000771617,,"LEGACY HOLDING, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000908985,,LEVEL ONE COMMUNICATIONS INC /CA/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000768152,,LIGHT MANAGEMENT GROUP INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000889971,LPTH,LIGHTPATH TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000791907,,LINEAR TECHNOLOGY CORP /CA/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000093205,,"LIVING 3D HOLDINGS, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001693960,,"LOCATORX, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000802851,,LOGIC DEVICES Inc,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001070383,,LORAINE JEREMY,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000703360,,LSI CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001137399,,LUMERA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001119602,,LUMINENT INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000065771,,MA COM INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001493594,MTSI,"MACOM Technology Solutions Holdings, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001009680,,MACRONIX INTERNATIONAL CO LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001325702,MX,MAGNACHIP SEMICONDUCTOR Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001425116,,MagnaChip Semiconductor CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001330351,,MagnaChip Semiconductor S.A.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001050132,,MAKER COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001058057,,MARVELL TECHNOLOGY GROUP LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001835632,MRVL,"Marvell Technology, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001417451,,"Master Silicon Carbide Industries, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001796898,MAXNQ,"Maxeon Solar Technologies, Ltd.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000743316,,MAXIM INTEGRATED PRODUCTS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001288469,MXL,"MAXLINEAR, INC",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001356104,,"Mellanox Technologies, Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000916232,,MELTRONIX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001386198,,MEMSIC Inc,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001431959,,META MATERIALS INC.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098462,MTLK,METALINK LTD,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000932111,,MICREL INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001090293,,MICRO ASI INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000875359,,MICRO LINEAR CORP /CA/,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000827054,MCHPP,MICROCHIP TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001096493,,MICROCLOCK INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000723125,MU,MICRON TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000065759,,MICROPAC INDUSTRIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000310568,,MICROSEMI CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001108058,,MICROTUNE INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001474433,,Miktam Technologies Americas Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001224370,,"MINDSPEED TECHNOLOGIES, INC",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001059786,,MIPS TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001855467,MOBXW,"MOBIX LABS, INC",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001280452,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001375514,,MONTAGE TECHNOLOGY GROUP LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057092,,MORTENSON JERALD H,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000887969,,MRV COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000354807,,MSI ELECTRONICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000798952,,MSU DEVICES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001114068,,MULTILINK TECHNOLOGY CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001872302,NA,Nano Labs Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001571636,,NanoFlex Power Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001160719,,"NANOSYS, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001464623,,Natcore Technology Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000070530,,NATIONAL SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001821769,NVTS,Navitas Semiconductor Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001030485,,NEOMAGIC CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001227025,,NEOPHOTONICS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001282631,NLST,NETLIST INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001135711,,NETLOGIC MICROSYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001086734,,NEUBAUER DAVID C,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001287979,,NEW ASAT FINANCE LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001090215,,NEW FOCUS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001956552,,Newsight Imaging Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000919941,,NEWSTATE HOLDINGS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000909183,,NEXGEN INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001852131,NXT,Nextpower Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001236761,,NEXX SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001124796,LASR,"NLIGHT, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001057094,,NORDQUIST DALE,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000724910,NVEC,NVE CORP /NEW/,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001045810,NVDA,NVIDIA CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001396945,,NXP B.V.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001397157,,NXP Funding LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001413447,NXPI,NXP Semiconductors N.V.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001095348,,O2MICRO INTERNATIONAL LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000824225,,OAK TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001156934,,OASIS SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001110647,,"OCLARO, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001781405,,"Odyssey Semiconductor Technologies, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001106851,,OMNIVISION TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001370702,,"ON Semiconductor Connectivity Solutions, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097864,ON,ON SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001021604,,ON TRACK INNOVATIONS LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001157780,,OPNEXT INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000804312,,OPTEK TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000899297,,OPTI INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001125840,,OPTICAL ACCESS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001122668,,OPTICAL COMMUNICATION PRODUCTS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001219169,,OPTIUM CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000930599,,ORBIT SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000924101,,OSE USA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001039065,OSIS,OSI SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001938569,PALX,Palomino Laboratories Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000917736,,PANDA PROJECT INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001106856,,PARKINSON JOSEPH LEON,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001113474,,PARTHUS TECHNOLOGIES PUBLIC LTD CO,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001425360,,"Partition Design, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001336391,,"Passave, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001616533,PENG,"Penguin Solutions, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000890394,PRSO,Peraso Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000880177,,PEREGRINE SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001345432,,PERFECTENERGY INTERNATIONAL LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001001426,,PERICOM SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001373201,,Photowatt Technologies Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000810136,PLAB,PHOTRONICS INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001331588,,"Pixelplus Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000907686,,"Plures Technologies, Inc./DE",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000850579,,PLX TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000767920,,PMC SIERRA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001437424,POET,POET TECHNOLOGIES INC.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001086361,,POHLMAN WILLIAM B,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001297633,,"PortalPlayer, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000833640,POWI,POWER INTEGRATIONS INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001106714,,PSI TECHNOLOGIES HOLDINGS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001369377,,Qimonda AG,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0002058873,Q,"Qnity Electronics, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001604778,QRVO,"Qorvo, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001119869,,QUALCOMM SPINCO INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000869886,,QUALITY SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001093272,,QUANTUM EFFECT DEVICES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000855309,,QUANTUM EPITAXIAL DESIGNS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000882508,QUIK,QUICKLOGIC Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000917273,RMBS,RAMBUS INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000849502,,RAMTRON INTERNATIONAL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001654124,,Rayton Solar Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001493637,,"RDA Microelectronics, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000769874,,REMEC LIQUIDATING TRUST,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000703361,,Renesas Electronics America Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001579910,,Resonant Inc,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001060511,,REYNOLDS DONALD R,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000911160,,RF MICRO DEVICES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001302645,,RF ODYSSEY INC.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001121287,,RICHARDSON TIMOTHY A,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001852117,,Rockley Photonics Holdings Ltd,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001631547,,"ROID GROUP, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000949702,,ROSS TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001410172,RBCN,"Rubicon Technology, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001297627,,Saifun Semiconductors Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000889423,,SATCON TECHNOLOGY CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098197,,SCG CHINA HOLDING CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098196,,SCG CZECH HOLDING CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098198,,SCG INTERNATIONAL DEVELOPMENT LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098194,,SCG MALAYSIA SMP HOLDING CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000934741,,SDL INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001951222,LAES,SEALSQ Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000702756,,SEEQ TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000088922,,SEMICON INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001194545,,SEMICONDUCTOR COMPONENTS IND INTL OF RHODE ISLAND INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098199,,SEMICONDUCTOR COMPONENTS INDUSTRIES LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001098195,,SEMICONDUCTOR COMPONENTS INDUSTRIES PUERTO RICO INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000921445,,SEMICONDUCTOR LASER INTERNATIONAL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001267482,,SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001333822,LEDS,SemiLEDs Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001990950,SELXF,Semilux International Ltd.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000088941,SMTC,SEMTECH CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001383395,SQNS,SEQUANS COMMUNICATIONS,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001831651,SHLS,"Shoals Technologies Group, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001355242,,"Shrink Nanotechnologies, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001213018,,SIGE SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000790715,,SIGMA DESIGNS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001043639,,"SigmaTel, LLC",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001038074,SLAB,SILICON LABORATORIES INC.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001329394,SIMO,Silicon Motion Technology CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000855906,,SILICON STORAGE TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000318284,,SILICON SYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000090283,,SILICONIX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001111759,,SILICONWARE PRECISION INDUSTRIES CO LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000817516,,SIMTEK CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001007800,,SIPEX CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001103777,,SIRENZA MICRODEVICES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001163943,,SIRF TECHNOLOGY HOLDINGS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001451809,SITM,SITIME Corp,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0002120882,HXSCL,SK hynix Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001819974,SKYT,"SkyWater Technology, LLC",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000004127,SWKS,"SKYWORKS SOLUTIONS, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001326973,,"SMART Modular Technologies (WWH), Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001001840,,SMART MODULAR TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001817760,SMTK,"SmartKem, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001421665,,"Solar Energy Initiatives, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001307873,,SOLAR ENERTECH CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001854388,,Solar Intermodal Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001419612,SEDG,"SOLAREDGE TECHNOLOGIES, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001866518,,"SolarJuice Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000091668,SODI,SOLITRON DEVICES INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001443115,,"SOLYNDRA, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001410629,,"Sonics, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001322705,,Spansion Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001520875,,Spansion LLC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001047385,,SPECTRA  PHYSICS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001210618,,"SPI Energy Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001641771,,"SPI Energy Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000731657,,SPIRE Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001287950,,SPREADTRUM COMMUNICATIONS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000093384,,STANDARD MICROSYSTEMS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097581,,STATS CHIPPAC (BARBADOS) LTD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097582,,STATS CHIPPAC (BVI) LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001097580,,STATS CHIPPAC KOREA LTD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001101873,,STATS CHIPPAC LTD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001164240,,STATS CHIPPAC MALAYSIA SDN. BHD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001320013,,"STATS ChipPAC Test Services, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001093779,,"STATS CHIPPAC, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001320426,,STATS Holdings LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000932787,STMEF,STMicroelectronics N.V.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001111721,,STRATOS INTERNATIONAL INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0002104032,SUCH,Suchness Tech Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001585854,,SunEdison Semiconductor Ltd,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000945436,,"SUNEDISON, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001481028,HYSR,"SUNHYDROGEN, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000867773,,SUNPOWER CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0002101240,SNSC,SunScout Holding Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001342803,,"Suntech Power Holdings Co., Ltd.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001291855,SPCB,SuperCom Ltd,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000730000,,SUPERTEX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001126411,,"SURGLINE INTERNATIONAL, INC.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000817720,SYNA,SYNAPTICS Inc,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001014136,,SYNERGY SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001718728,SYTN,Syntiant Corp.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001992243,TE,T1 Energy Inc.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001046179,TSMWF,TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001556898,,"Techpoint, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001171529,,TECHWELL INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000917415,,TELCOM SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000096935,,TELEDYNE INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001296612,,"Telegent Systems, Inc",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001290416,,Telesis Technology Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001006024,,TENSLEEP CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000914573,,TESSERA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001261694,,TESSERA TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000097476,TXN,TEXAS INSTRUMENTS INC,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000715577,,TEXAS INSTRUMENTS TUCSON CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001855447,TYGO,"TIGO ENERGY, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001102406,,TIMERSON LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000928876,TSEM,TOWER SEMICONDUCTOR LTD,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001337675,,Tower US Holdings Inc.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001985273,TOYWF,"TOYO Co., Ltd",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001370433,,TRANS-INDIA ACQUISITION CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001001193,,TRANSMETA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001715768,,"Transphorm, Inc.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000944739,,TRANSWITCH CORP /DE,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000859475,,TRIDENT MICROSYSTEMS INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001382158,,Trina Solar LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000913885,,TRIQUINT SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001474844,,Trony Solar Holdings Co Ltd,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001109279,,TVIA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001275014,UCTT,"Ultra Clean Holdings, Inc.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001033767,UMC,UNITED MICROELECTRONICS CORP,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001119031,,UNITED TEST & ASSEMBLY CENTER LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000101911,,UNITRODE CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001456926,,US SOLARTECH INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001637505,,UTAC Holdings Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001063199,,V3 SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001863006,VLNWF,Valens Semiconductor Ltd.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001511116,,VERIGY HOLDING CO. LTD.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001352341,,Verigy Ltd.,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001211628,,VERISILICON HOLDINGS CO LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001769116,,VIA optronics AG,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000912093,VIAV,VIAVI SOLUTIONS INC.,3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0001341088,,Vimicro International CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001050776,,VIRAGE LOGIC CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001094371,,VIRATA CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001737810,,"VITEC HOLDINGS CO., LTD.",3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000880446,,VITESSE SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000704386,,VLSI TECHNOLOGY INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001050550,,VOLTERRA SEMICONDUCTOR CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001123744,,WAVESPLITTER TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001059293,,WEST JEFFREY,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000013606,,WHITE ELECTRONIC DESIGNS CORP,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001109925,,WINTEGRA INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000895419,WOLF,"WOLFSPEED, INC.",3674,SIC 3674 browse-edgar atom feed; ticker/name via company_tickers.json
+0000319191,,XICOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000743988,,XILINX INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001690666,,Xperi Corp,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001394029,,YINGLI GREEN ENERGY HOLDING CO LTD,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000352435,,ZARLINK SEMICONDUCTOR INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000319450,,ZILOG INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001057096,,ZIMMERMAN FREDERICK,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0000756055,,ZING TECHNOLOGIES INC,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
+0001003022,,ZORAN CORP \DE\,3674,SIC 3674 browse-edgar atom feed; not in company_tickers.json (likely no active listed ticker); name backfilled from submissions API if available
